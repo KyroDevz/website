@@ -52,7 +52,7 @@ export const projects = [
         id: 9,
         title: "IzzyDev Studios - Creator",
         image: "https://files.clearlydev.com/site-assets/2023/09/image-30.png",
-        description: "My Official products store where I sell a lot of my failed projects and assets I've made in my spare time.
+        description: "My Official products store where I sell a lot of my failed projects and assets I've made in my spare time.",
       },
   ]
 

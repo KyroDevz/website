@@ -48,5 +48,11 @@ export const projects = [
         description: "In the role of a Product Developer I was tasked with creating many different products for their customers such as the Roleplay Systems and some Military ones too.",
         link: "https://customtech.store/"
       },
+                  {
+        id: 9,
+        title: "IzzyDev Studios - Creator",
+        image: "https://files.clearlydev.com/site-assets/2023/09/image-30.png",
+        description: "My Official products store where I sell a lot of my failed projects and assets I've made in my spare time.
+      },
   ]
 

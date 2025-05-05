@@ -41,4 +41,12 @@ export const projects = [
         description: "This solo project is unfinished and is still in the works, however I am responsable for all of the programming in this project!",
         link: "https://www.roblox.com/games/13601391174/Project-Island"
       },
+              {
+        id: 8,
+        title: "CustomTech - Former Product Developer",
+        image: "https://customtech.store/images/main_page2.png",
+        description: "In the role of a Product Developer I was tasked with creating many different products for their customers such as the Roleplay Systems and some Military ones too.",
+        link: "https://customtech.store/"
+      },
   ]
+
